@@ -79,8 +79,8 @@ if(isset($_POST['submit'])){
 
       <div class="row min-vh-100 align-items-center">
          <div class="content text-center text-md-left">
-            <h3>let us brighten your smile</h3>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium itaque, quasi aliquam alias tempora voluptatibus.</p>
+            <h3>Let us brighten your smile</h3>
+            <p>Smiles are crafted one tooth at a time, thanks to the artistry of dentists.</p>
             <a href="#contact" class="link-btn">make appointment</a>
          </div>
       </div>
