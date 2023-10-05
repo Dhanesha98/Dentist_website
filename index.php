@@ -27,7 +27,7 @@ if(isset($_POST['submit'])){
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Complete Responsive Dentist Website Design Tutorial</title>
+   <title>Responsive Dentist Website </title>
 
    <!-- font awesome cdn link  -->
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -49,7 +49,7 @@ if(isset($_POST['submit'])){
 
       <div class="row align-items-center justify-content-between">
 
-         <a href="#home" class="logo">dental<span>Care.</span></a>
+         <a href="#home" class="logo">Tooth<span>Care</span></a>
 
          <nav class="nav">
             <a href="#home">home</a>
@@ -218,7 +218,7 @@ if(isset($_POST['submit'])){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Dhanesha Udayangani</h3>
          <span>satisfied client</span>
       </div>
 
@@ -232,7 +232,7 @@ if(isset($_POST['submit'])){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Ayesha Madubhashini</h3>
          <span>satisfied client</span>
       </div>
 
@@ -246,7 +246,7 @@ if(isset($_POST['submit'])){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Laksiru Yasodha</h3>
          <span>satisfied client</span>
       </div>
 
@@ -301,7 +301,7 @@ if(isset($_POST['submit'])){
       <div class="box">
          <i class="fas fa-map-marker-alt"></i>
          <h3>our address</h3>
-         <p>mumbai, india - 400104</p>
+         <p>Gampaha, Sri Lanka</p>
       </div>
 
       <div class="box">
@@ -313,13 +313,13 @@ if(isset($_POST['submit'])){
       <div class="box">
          <i class="fas fa-envelope"></i>
          <h3>email address</h3>
-         <p>shaikhanas@gmail.com</p>
-         <p>anasbhai@gmail.com</p>
+         <p>Roshan@gmail.com</p>
+         <p>Dinuka@gmail.com</p>
       </div>
 
    </div>
 
-   <div class="credit"> &copy; copyright @ <?php echo date('Y'); ?> by <span>mr. web designer</span>  </div>
+   <div class="credit"> &copy; copyright @ <?php echo date('Y'); ?> by <span>Dhanesha</span>  </div>
 
 </section>
 
