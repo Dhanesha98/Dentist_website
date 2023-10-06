@@ -2,9 +2,9 @@
 
 :root{
    --blue:#00b8b8;
-   --black:#333;
+   --black:#1e2021;
    --white:#fff;
-   --light-color:#666;
+   --light-color:#42484c;
    --light-bg:#eee;
    --border:.2rem solid rgba(0,0,0,.1);
    --box-shadow:0 .5rem 1rem rgba(0,0,0,.1);
@@ -29,7 +29,7 @@
 }
 
 *::-webkit-scrollbar-thumb{
-   background-color: var(--blue);
+   background-color: #306F8B;
 }
 
 html{
@@ -56,7 +56,7 @@ section{
    display: inline-block;
    padding:1rem 3rem;
    border-radius: .5rem;
-   background-color: var(--blue);
+   background-color:#306F8B;
    cursor: pointer;
    font-size: 1.7rem;
    color:var(--white);
@@ -80,11 +80,11 @@ section{
 
 .header .logo{
    font-size: 2rem;
-   color:var(--black);
+   color: black;
 }
 
 .header .logo span{
-   color:var(--blue);
+   color:#1aa6e3;
 }
 
 .header .nav a{
@@ -94,7 +94,7 @@ section{
 }
 
 .header .nav a:hover{
-   color:var(--blue);
+   color:#1aa6e3;
 }
 
 #menu-btn{
@@ -123,7 +123,7 @@ section{
 
 .home .content p{
    line-height: 2;
-   font-size: 1.5rem;
+   font-size: 1.8rem;
    color:var(--light-color);
    padding:1rem 0;
 }
@@ -134,7 +134,7 @@ section{
 
 .about .content span{
    font-size: 2rem;
-   color:var(--blue);
+   color:#1aa6e3;
 }
 
 .about .content h3{
@@ -170,7 +170,9 @@ section{
 
 .services .box-container .box img{
    margin:1rem 0;
-   height: 4rem;
+   height: 7rem;
+
+  
 }
 
 .services .box-container .box h3{
@@ -192,7 +194,7 @@ section{
 }
 
 .process .box-container .box{
-   background-color: var(--blue);
+   background-color: #1aa6e3;
    padding:2rem;
    border-radius: .5rem;
    text-align: center;
@@ -258,7 +260,7 @@ section{
 
 .reviews .box-container .box .stars i{
    font-size: 1.5rem;
-   color:var(--blue);
+   color:#1aa6e3;
 }
 
 .reviews .box-container .box h3{
@@ -326,7 +328,7 @@ section{
    border-radius: 50%;
    line-height: 5rem;
    font-size: 2rem;
-   background-color: var(--blue);
+   background-color: #1aa6e3;
    color:var(--white);
 }
 
@@ -352,7 +354,7 @@ section{
 }
 
 .footer .credit span{
-   color:var(--blue);
+   color:#1aa6e3;
 }
 
 
@@ -441,3 +443,5 @@ section{
    }
 
 }
+
+

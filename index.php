@@ -48,7 +48,7 @@ if(isset($_POST['submit'])){
    <div class="container">
 
       <div class="row align-items-center justify-content-between">
-
+         <img src:/>
          <a href="#home" class="logo">Tooth<span>Care</span></a>
 
          <nav class="nav">
@@ -127,37 +127,37 @@ if(isset($_POST['submit'])){
    <div class="box-container container">
 
       <div class="box">
-         <img src="images/icon-1.svg" alt="">
+         <img src="images/1 (1).png" alt="">
          <h3>Alignment specialist</h3>
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, non?</p>
       </div>
 
       <div class="box">
-         <img src="images/icon-2.svg" alt="">
+         <img src="images/1 (2).png" alt="">
          <h3>Cosmetic dentistry</h3>
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, non?</p>
       </div>
 
       <div class="box">
-         <img src="images/icon-3.svg" alt="">
+         <img src="images/1 (3).png" alt="">
          <h3>Oral hygiene experts</h3>
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, minima?</p>
       </div>
 
       <div class="box">
-         <img src="images/icon-4.svg" alt="">
+         <img src="images/1 (4).png" alt="">
          <h3>Root canal specialist</h3>
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, minima?</p>
       </div>
 
       <div class="box">
-         <img src="images/icon-5.svg" alt="">
+         <img src="images/1 (5).png" alt="">
          <h3>Live dental advisory</h3>
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, minima?</p>
       </div>
 
       <div class="box">
-         <img src="images/icon-6.svg" alt="">
+         <img src="./images/1 (6).png" alt="">
          <h3>Cavity inspection</h3>
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, minima?</p>
       </div>
